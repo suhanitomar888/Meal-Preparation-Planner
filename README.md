@@ -1,4 +1,4 @@
-🥗 Diet Recommendation Chatbot App
+## 🥗 Diet Recommendation Chatbot App
 
 An AI-powered web application that generates personalized diet plans based on user profiles, health inputs, preferences, and fitness goals. The system integrates a conversational chatbot to guide users, answer dietary queries, and provide smart nutritional recommendations.
 
