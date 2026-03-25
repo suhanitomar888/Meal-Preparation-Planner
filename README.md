@@ -14,7 +14,7 @@ Fetches food and nutrition details using Spoonacular API
 🌐 Responsive Web Interface
 User-friendly frontend for smooth interaction
 
-###🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 Frontend:
 HTML
